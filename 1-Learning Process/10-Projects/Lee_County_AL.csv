@@ -1,0 +1,5 @@
+row_id,id,State_Code,State_Name,State_ab,County,City,Place,Type,Primary,Zip_Code,Area_Code,ALand,AWater,Lat,Lon
+14,101930,1,Alabama,AL,"Lee County",Auburn,"Auburn city",City,place,36830,334,152375113,2646161,32.607722,-85.489545
+144,1011330,1,Alabama,AL,"Lee County",Opelika,"Opelika city",City,place,36801,334,154497144,2388300,32.660739,-85.37889
+146,1011350,1,Alabama,AL,"Lee County",Ozark,"Phenix City city",City,place,36867,334,72497364,325619,32.461669,-85.025021
+154,1011430,1,Alabama,AL,"Lee County","Smiths Station","Smiths Station city",City,place,36877,334,17386667,69041,32.534662,-85.111341
